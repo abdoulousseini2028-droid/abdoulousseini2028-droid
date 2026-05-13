@@ -1,6 +1,6 @@
 # Abdoul Rahim Ousseini
 
-I'm a Computer Science student at Northwestern University (Full-Ride Buffet Scholar, <0.5% acceptance rate) concentrating in AI. I am ADDICTED to programming, and love building stuff (technical and non-technical - I founded and scaled a marketing agency to $1K MRR around 1yr ago.)
+I'm a Computer Science student at Northwestern University concentrating in AI. I am ADDICTED to programming, and love building stuff (technical and non-technical - I founded and scaled a marketing agency to $1K MRR around 1yr ago.)
 
 
 ## Currently Working On
@@ -11,16 +11,15 @@ I am working on an RL-Augmented Agentic System for TLA+ Verification, a research
 
 ### Foody – Campus Free Food Locator
 **TypeScript, Firebase, React**
-- Built a full-stack web app that helps Northwestern students discover leftover free food on campus
-- Validated product-market fit through 20+ user interviews
-- Won best pitch award competing against 4 other teams
-- Currently used by students across campus
+Foody is a full-stack web app that helps Northwestern students discover leftover free food on campus. I validated it with 20+ user interviews, and it won Best Pitch Award in competition against 4 other teams. link: https://cs39-98ac6.web.app/ (it only accept @u.northwestern emails)
+<img width="1457" height="866" alt="Screenshot 2026-05-13 at 16 18 48" src="https://github.com/user-attachments/assets/748c0870-b119-407b-901f-f669eaeae02e" />
+
 
 ### Commuter Podcast App
-**TypeScript, Firebase, Google APIs**
+**TypeScript, Firebase, Google APIs, Codex, Text-to-Speech **
 - Embedded as 1 of 5 engineers in a cross-functional team (professionals from Accenture, Tesla, Ford) delivering an app in 5 weeks
 - Shipped 2 core features: commute time calculator (Google Maps API) and newsletter-to-audio converter (Google Text-to-Speech)
-- Enabled on-time delivery and successful capstone demo for the product team
+- link: https://commuterly-ed504.web.app/
   
 ### TaskMaster API
 **Go, PostgreSQL, Docker**
