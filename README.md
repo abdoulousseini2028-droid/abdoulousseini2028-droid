@@ -5,7 +5,9 @@ I'm a Computer Science student at Northwestern University concentrating in AI. I
 
 ## Currently Working On
 
-I am working on an RL-Augmented Agentic System for TLA+ Verification, a research project under the mentorship of Northwestern Professor Hai Zhou
+I am working on an RL-Augmented Agentic System for TLA+ Verification, a research project under the mentorship of Northwestern Professor Hai Zhou.
+link: https://github.com/abdoulousseini2028-droid/ce356-invariant-agent
+
 
 ## Featured Projects
 
