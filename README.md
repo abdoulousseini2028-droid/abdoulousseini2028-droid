@@ -20,7 +20,7 @@ Foody is a full-stack web app that helps Northwestern students discover leftover
 
 ### Commuter Podcast App
 
-I was embedded as 1 of 5 engineers in a cross-functional product team (professionals from Accenture, Tesla, Ford) to deliver an app in 5 weeks. The team was practicing their product devleopment skills for their mpd2 program, and we were practicing our software development skills and ability to work with clients. I shipped 2 core features.
+I was embedded as 1 of 5 engineers in a cross-functional product team (professionals from Accenture, Tesla, Ford) to deliver an app in 5 weeks. The team was practicing their product development skills for their mpd2 program, and we were practicing our software development skills and ability to work with clients. I shipped 2 core features.
 - link: https://commuterly-ed504.web.app/
   
 ### TaskMaster API
@@ -31,7 +31,7 @@ I was embedded as 1 of 5 engineers in a cross-functional product team (professio
 
 ## Recognition
 
-- **Salesforce Futureforce Tech Launchpad 2026** – Finalist (top 10% of applicant pool, exclusive to sophomores)
+- **Salesforce Futureforce Tech Launchpad 2026 (SWE ROLE)** – Finalist (top 10% of applicant pool, exclusive to sophomores)
 - **Kohlberg-Manacher Foundation 2026** – Technology Fellow, acceptance rate <6%, $15K merit funding, direct mentorship
 
 ## Let's Talk
@@ -42,4 +42,4 @@ I was embedded as 1 of 5 engineers in a cross-functional product team (professio
 
 ---
 
-I write code that is both reliable and human-readable.
+I write code that is both reliable and human-readable. Speak 3 languages fluently.
