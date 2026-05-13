@@ -5,10 +5,7 @@ I'm a Computer Science student at Northwestern University (Full-Ride Buffet Scho
 
 ## Currently Working On
 
-**RL-Augmented Agentic System for TLA+ Verification** (Undergraduate Researcher, Prof. Hai Zhou)
-- Building a LLM-in-the-loop architecture that automatically synthesizes and verifies TLA+ safety invariants for concurrent programs
-- Implemented a lightweight policy (trained via REINFORCE) that learns to retrieve few-shot examples and format counterexample traces into targeted revision prompts
-- Working with Gemini API for large-scale formal verification
+I am working on an RL-Augmented Agentic System for TLA+ Verification, a research project under the mentorship of Northwestern Professor Hai Zhou
 
 ## Featured Projects
 
@@ -24,8 +21,7 @@ I'm a Computer Science student at Northwestern University (Full-Ride Buffet Scho
 - Embedded as 1 of 5 engineers in a cross-functional team (professionals from Accenture, Tesla, Ford) delivering an app in 5 weeks
 - Shipped 2 core features: commute time calculator (Google Maps API) and newsletter-to-audio converter (Google Text-to-Speech)
 - Enabled on-time delivery and successful capstone demo for the product team
-- Users can now listen to newsletters during their commute
-
+  
 ### TaskMaster API
 **Go, PostgreSQL, Docker**
 - Production-grade REST API for team task management handling 200+ requests/sec
@@ -41,7 +37,7 @@ I'm a Computer Science student at Northwestern University (Full-Ride Buffet Scho
 
 - **Email:** abdoulousseini2028@u.northwestern.edu  
 - **Phone:** 773-796-1987
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+- **LinkedIn:** [https://www.linkedin.com/in/abdoul-rahim-ousseini/](https://linkedin.com)
 
 ---
 
