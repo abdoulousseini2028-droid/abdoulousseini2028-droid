@@ -10,15 +10,15 @@ I am working on an RL-Augmented Agentic System for TLA+ Verification, a research
 ## Featured Projects
 
 ### Foody – Campus Free Food Locator
-**TypeScript, Firebase, React**
+
 Foody is a full-stack web app that helps Northwestern students discover leftover free food on campus. I validated it with 20+ user interviews, and it won Best Pitch Award in competition against 4 other teams. link: https://cs39-98ac6.web.app/ (it only accept @u.northwestern emails)
+
 <img width="1457" height="866" alt="Screenshot 2026-05-13 at 16 18 48" src="https://github.com/user-attachments/assets/748c0870-b119-407b-901f-f669eaeae02e" />
 
 
 ### Commuter Podcast App
-**TypeScript, Firebase, Google APIs, Codex, Text-to-Speech **
-- Embedded as 1 of 5 engineers in a cross-functional team (professionals from Accenture, Tesla, Ford) delivering an app in 5 weeks
-- Shipped 2 core features: commute time calculator (Google Maps API) and newsletter-to-audio converter (Google Text-to-Speech)
+
+I was embedded as 1 of 5 engineers in a cross-functional product team (professionals from Accenture, Tesla, Ford) to deliver an app in 5 weeks. The team was practicing their product devleopment skills for their mpd2 program, and we were practicing our software development skills and ability to work with clients. I shipped 2 core features.
 - link: https://commuterly-ed504.web.app/
   
 ### TaskMaster API
