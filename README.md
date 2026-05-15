@@ -31,7 +31,6 @@ I was embedded as 1 of 5 engineers in a cross-functional product team (professio
 
 ## Recognition
 
-- **Salesforce Futureforce Tech Launchpad 2026 (SWE ROLE)** – Finalist (top 10% of applicant pool, exclusive to sophomores)
 - **Kohlberg-Manacher Foundation 2026** – Technology Fellow, acceptance rate <6%, $15K merit funding, direct mentorship
 
 ## Let's Talk
