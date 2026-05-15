@@ -1,6 +1,6 @@
 # Abdoul Rahim Ousseini
 
-I'm a Computer Science student at Northwestern University concentrating in AI. I am ADDICTED to programming, and love building stuff (technical and non-technical - I founded and scaled a marketing agency to $1K MRR around 1yr ago.)
+I'm a Computer Science student at Northwestern University concentrating in AI. I am ADDICTED to programming, and love building stuff.
 
 
 ## Currently Working On
