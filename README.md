@@ -1,6 +1,6 @@
 # Abdoul Rahim Ousseini
 
-I'm a Computer Science & Math student at Northwestern University concentrating in AI. I love programming, and problem solving.
+I'm a Computer Science + Math student at Northwestern University concentrating in AI. I love programming & problem solving.
 
 
 ## Featured Projects
