@@ -5,17 +5,17 @@ I'm a Computer Science + Math student at Northwestern University concentrating i
 
 ## Featured Projects
 
-## Project #1: Agentic System (research project)
+### Project #1: Agentic System (research project)
 
 I built on an RL-Augmented Agentic System for TLA+ Verification, a research project under the mentorship of a Northwestern PhD student.
 - link: https://github.com/abdoulousseini2028-droid/ce356-invariant-agent
 
-### Project #2: Commuter Podcast App
+### Project #2: Commuter Podcast App (Built for a team of 5 Fortune 500 product managers)
 
 I was embedded as 1 of 5 engineers in a cross-functional product team (professionals from Accenture, Tesla, Ford) to deliver an app in 5 weeks. The team was practicing their product development skills for their mpd2 program, and we were practicing our software development skills and ability to work with clients. I shipped 2 core features.
 - link: https://commuterly-ed504.web.app/
 
-### Project #3: Foody – Campus Free Food Locator
+### Project #3: Foody (Northwestern Campus Free Food Locator)
 
 Foody is a full-stack web app that helps Northwestern students discover leftover free food on campus. I validated it with 20+ user interviews, and it won Best Pitch Award in competition against 4 other teams. link: https://cs39-98ac6.web.app/ (it only accept @u.northwestern emails)
 
