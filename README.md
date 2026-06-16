@@ -7,7 +7,7 @@ I'm a Computer Science + Math student at Northwestern University concentrating i
 
 ### Project #1: Agentic System (research project)
 
-I built on an RL-Augmented Agentic System for TLA+ Verification, a research project under the mentorship of a Northwestern PhD student.
+I built an RL-Augmented Agentic System for TLA+ Verification, a research project under the mentorship of a Northwestern PhD student.
 - link: https://github.com/abdoulousseini2028-droid/ce356-invariant-agent
 
 ### Project #2: Commuter Podcast App (Built for a team of 5 Fortune 500 product managers)
