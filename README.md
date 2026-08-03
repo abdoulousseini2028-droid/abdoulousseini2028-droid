@@ -32,7 +32,7 @@ Foody is a full-stack web app that helps Northwestern students discover leftover
 
 - **Email:** abdoulousseini2028@u.northwestern.edu  
 - **Phone:** 773-796-1987
-- **LinkedIn:** [https://www.linkedin.com/in/abdoul-rahim-ousseini/](https://linkedin.com)
+- **LinkedIn:** [https://www.linkedin.com/in/abdoul-rahim-ousseini/](https://www.linkedin.com/in/abdoul-rahim-ousseini/)
 
 ---
 
