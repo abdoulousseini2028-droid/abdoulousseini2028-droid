@@ -17,9 +17,9 @@ I was embedded as 1 of 5 engineers in a cross-functional product team (professio
 
 ### Project #3: Foody (Northwestern Campus Free Food Locator)
 
-Foody is a full-stack web app that helps Northwestern students discover leftover free food on campus. I validated it with 20+ user interviews, and it won Best Pitch Award in competition against 4 other teams. link: https://cs39-98ac6.web.app/ (only accept @u.northwestern emails)
+Foody is a full-stack web app that helps Northwestern students find leftover free food on campus. Conducted 20+ user interviews to iterate over initial MVP (based on feedbacks, added a "Dietary Filter", a "Live Status" feature about the status of the posted food. Foody won the best pitch award in competition against 4 other Northwestern teams.
 
-<img width="1457" height="866" alt="Screenshot 2026-05-13 at 16 18 48" src="https://github.com/user-attachments/assets/748c0870-b119-407b-901f-f669eaeae02e" />
+<img width="2102" height="1300" alt="image" src="https://github.com/user-attachments/assets/72af64e0-2a89-449a-b614-3170ae681577" />
 
   
 ### Project #4: TaskMaster API
