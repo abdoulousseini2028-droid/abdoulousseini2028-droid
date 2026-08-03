@@ -12,8 +12,9 @@ I built an RL-Augmented Agentic System for TLA+ Verification, a research project
 
 ### Project #2: Commuter Podcast App (Built for a team of 5 Fortune 500 product managers)
 
-I was embedded as 1 of 5 engineers in a cross-functional product team (professionals from Accenture, Tesla, Ford) to deliver an app in 5 weeks. The team was practicing their product development skills for their mpd2 program, and we were practicing our software development skills and ability to work with clients. I shipped 2 core features.
-- link: https://commuterly-ed504.web.app/
+I was embedded as 1 of 5 engineers in a cross-functional product team (professionals from Accenture, Tesla, Ford) to deliver an app in 5 weeks. PM team was practicing product development skills for Northwestern mpd2 program. I shipped 2 core features. 
+
+- link: https://commuterly-ed504.web.app/. (note: Google Maps API expired, please try "manual" option)
 
 ### Project #3: Foody (Northwestern Campus Free Food Locator)
 
