@@ -14,7 +14,7 @@ I built an RL-Augmented Agentic System for TLA+ Verification, a research project
 
 I was embedded as 1 of 5 engineers in a cross-functional product team (professionals from Accenture, Tesla, Ford) to deliver an app in 5 weeks. PM team was practicing product development skills for Northwestern mpd2 program. I shipped 2 core features. 
 
-- link: https://commuterly-ed504.web.app/. (note: Google Maps API expired, please try "manual" option)
+- link: https://commuterly-ed504.web.app/. (note: Google Maps API expired, please try "manual" option, when app asks for commute time)
 
 ### Project #3: Foody (Northwestern Campus Free Food Locator)
 
